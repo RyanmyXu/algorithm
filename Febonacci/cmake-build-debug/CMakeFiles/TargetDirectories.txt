@@ -1,0 +1,3 @@
+D:/wemeet/game/Febonacci/cmake-build-debug/CMakeFiles/Febonacci.dir
+D:/wemeet/game/Febonacci/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/wemeet/game/Febonacci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
